@@ -10,10 +10,18 @@ body {
 
 .text {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
+    font-size: 25px;
     font-style: oblique;
+    height: 370px;
+    padding: 10px;
 }
 
 .ouvir {
     font-weight: bold
+}
+
+#MF {
+    float: left;
+    background-color: #0069ff;
+    padding: 5px
 }
